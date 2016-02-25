@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.11)  25 FEB 2016 18:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.11)  25 FEB 2016 18:17
 entering extended mode
 **C:/Users/home/Desktop/Sam/comp150-desktop-game/proposal/comp150_agile_proposa
 l.tex
@@ -258,6 +258,10 @@ Overfull \hbox (13.31697pt too wide) in paragraph at lines 22--23
 im-ple-ment-ing pair pro-gram-ming
  []
 
+[1
+
+
+{C:/Users/home/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -270,10 +274,7 @@ Overfull \hbox (8.57767pt too wide) in paragraph at lines 23--24
 uk / citation . cfm ? id = 1953346 &$
  []
 
-[1
 
-
-{C:/Users/home/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 Overfull \hbox (16.3341pt too wide) in paragraph at lines 24--25
 [][]$\OT1/cmtt/m/n/10.95 http : / / delivery . acm . org . ezproxy . falmouth .
  ac . uk / 10 . 1145 / 1960000 /$
@@ -486,7 +487,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 81.
 Here is how much of TeX's memory you used:
  5804 strings out of 493634
  92658 string characters out of 3141317
- 242621 words of memory out of 3000000
+ 241680 words of memory out of 3000000
  9165 multiletter control sequences out of 15000+200000
  9287 words of font info for 33 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -496,7 +497,7 @@ C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/
 Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/
 Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Pr
 ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on comp150_agile_proposal.pdf (6 pages, 124293 bytes).
+Output written on comp150_agile_proposal.pdf (6 pages, 125831 bytes).
 PDF statistics:
  121 PDF objects out of 1000 (max. 8388607)
  21 named destinations out of 1000 (max. 500000)
