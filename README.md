@@ -1,6 +1,8 @@
 # comp150-desktop-game
 A desktop game made collaboratively using C++ and SDL.
 
+For commits, go to https://github.com/sw180283/SoftFox
+
 ##Team Evaluation
 (b) Write a draft 500-word report that must:
 i. identify two key teamwork skills that you consider weaknesses;
